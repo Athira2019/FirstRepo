@@ -1,3 +1,8 @@
 # FirstRepo--Learning pull request
-New changes
-Repo used to test jenkins
+The branch with design patterns code 
+1.Strategy
+2.state
+3.Observer
+4.Factory
+5.Facade
+6.Builder

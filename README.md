@@ -1,9 +1,9 @@
-#Addding my learnings on:
+<B>Addding my learnings on:<B>
 
 
-<li>
-FlaskRestApi:Book APP
-Design patterns:Java examples
-Java 8 :Some examples
-Datascience:Update shortly
-<li>
+
+<li>FlaskRestApi:Book APP</li>
+<li>Design patterns:Java examples</li>
+<li>Java 8 :Some examples</li>
+<li>Datascience:Update shortly</li>
+

@@ -1,3 +1,5 @@
-# FirstRepo--Learning pull request
-New changes
-Repo used to test jenkins
+#Addding my learnings on:
+FlaskRestApi:Book APP
+Design patterns:Java examples
+Java 8 :Some examples
+Datascience:Update shortly
